@@ -18,6 +18,7 @@
   },
   "exclude": [
     "node_modules",
-    "app/main.aot.ts"
+    "app/main.aot.ts",
+    "_tmp_aot"
   ]
 }
